@@ -1,0 +1,32 @@
+*{
+          background-color: gainsboro;
+          text-align: center;
+}
+h2 {
+          display: inline-block;
+          width: 30px;
+          height: 40px;
+          color: red;
+          font-size: 50px;
+          margin: 20px;
+          padding: 10px;
+}
+
+h1{
+          font-family: 'Times New Roman', Times, serif;
+          color: rgb(58, 149, 30);
+          /* text-align: center; */
+}
+
+button {
+          font-family: Arial, Helvetica, sans-serif;
+          font-size: 25px;
+          color: rgb(29, 82, 240);
+          width: 10%;
+          height: 10%;
+          padding: 5px;
+          margin: 5px;
+          border: 2px outset grey;
+          border-radius: 20%;
+          /* text-align: center; */
+}
